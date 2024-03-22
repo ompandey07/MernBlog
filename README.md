@@ -110,5 +110,5 @@ This project was created using the following technologies.
 ## Author
 
 - Portfolio: [Om Pandey](https://www.omkumarpandey.com.np/)
-- Github: [berthutapea](https://github.com/ompandey07)
+- Github: [Om Pandey](https://github.com/ompandey07)
 
